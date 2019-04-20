@@ -1,1 +1,3 @@
 This is chapter3 that I will try to test and add to github and remote theme all.
+
+I try to write more and save it. I would see what is different time after I commited.
